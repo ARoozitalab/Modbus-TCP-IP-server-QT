@@ -14,7 +14,9 @@ https://github.com/ARoozitalab/MINI_SCADA_PCB
 but you can change it and use it in your projects
 
 you can see acpplication home page on this picture
+
 ![alt text](https://github.com/ARoozitalab/Modbus-TCP-IP-server-QT/blob/master/home.JPG "home")
+
 set mini scada ip addres according it address on lcd and klick connect
 
 
