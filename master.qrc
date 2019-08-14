@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/application-exit.png</file>
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/settings.png</file>
+        <file>images/HALT1.bmp</file>
+        <file>images/HALT2.bmp</file>
+        <file>images/HALT3.bmp</file>
+        <file>images/HALT4.bmp</file>
+        <file>images/OFF1.bmp</file>
+        <file>images/OFF2.bmp</file>
+        <file>images/OFF3.bmp</file>
+        <file>images/OFF4.bmp</file>
+        <file>images/ON1.bmp</file>
+        <file>images/ON2.bmp</file>
+        <file>images/ON3.bmp</file>
+        <file>images/ON4.bmp</file>
+        <file>images/ioff.bmp</file>
+        <file>images/ion.bmp</file>
+        <file>images/LOGO.bmp</file>
+    </qresource>
+</RCC>
