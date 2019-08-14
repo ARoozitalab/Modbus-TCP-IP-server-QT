@@ -9,7 +9,7 @@ https://github.com/ARoozitalab/MINI_SCADA_PCB
 
 and mini scada source :
 
-https://github.com/ARoozitalab/MINI_SCADA_PCB
+https://github.com/ARoozitalab/MINI_SCADA_SRC
 
 but you can change it and use it in your projects
 
